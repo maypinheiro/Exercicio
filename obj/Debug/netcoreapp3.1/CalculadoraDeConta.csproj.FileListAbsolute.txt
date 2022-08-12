@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.AssemblyInfo.cs
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.exe
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.deps.json
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.runtimeconfig.json
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.dll
+C:\Users\017586631\source\repos\CalculadoraDeConta\bin\Debug\netcoreapp3.1\CalculadoraDeConta.pdb
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.dll
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.pdb
+C:\Users\017586631\source\repos\CalculadoraDeConta\obj\Debug\netcoreapp3.1\CalculadoraDeConta.genruntimeconfig.cache
