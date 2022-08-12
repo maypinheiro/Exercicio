@@ -10,7 +10,7 @@ namespace CalculadoraDeConta
             Menu();
             RecebeValores.Pedido(pedido);
             Preco.ValorPorCodigo(pedido);
-            Console.WriteLine("Total: R$ " +Calculadora.TotalPedido(pedido));
+            Console.WriteLine("Total: R$ " +Calculadora.TotalPedido(pedido).ToString("F2"));
         }
 
 
